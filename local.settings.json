@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "CfDJ8KvJ6DmYyMJCgkPKMHi9yggxobSNL+EiBudqjTbkN08MV8FPGx7WqKyJXi1vK5/3O48YnxQvGjJtBiH2gbzh8qUxrA2On+1JRf1xQeWwdKwATocSwT1CMT9SN2gtzXs0ZQ==",
+    "hcdbconnectionpr1": "mongodb://cosmosdbpr1:ZewMXy32OlyJW37JBqVougYyzDoZM06vKZyFZK61zb9tVIRXjOFG4tubYBZDRBYMe2nTVKv4Ammr4rOpesTPxg==@cosmosdbpr1.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@cosmosdbpr1@"
+  },
+  "ConnectionStrings": {},
+
+  "AzureWebJobsStorage": ""
+}
